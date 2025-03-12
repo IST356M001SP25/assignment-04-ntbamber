@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I found the pandaslib function creation part of this assignment to be the easiest because I am taking a data mining course that heavily covered pandas earlier in the semester. The most difficult part of this assignment for me was attempting to do as many things as possible as oneliners in the unibrow file. To help me create these oneliners I used the streamlit doccumentation to initially create the function and then I used GitHub Copilot to help debug parts that still were not working.
